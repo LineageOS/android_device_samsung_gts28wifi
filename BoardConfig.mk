@@ -11,6 +11,7 @@ BOARD_MODEM_TYPE := ss333
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := gts28wifi,gts28wifixx
+TW_THEME := portrait_hdpi
 
 # Inherit common board flags
 include device/samsung/gts2-common/BoardConfigCommon.mk
