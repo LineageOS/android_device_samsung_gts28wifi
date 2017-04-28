@@ -1,6 +1,6 @@
 ### Bluetooth
 # Split-off for future differences
-vendor/firmware/bcm4358A3_V0069.0114.hcd
+vendor/firmware/bcm4358A3_V0083.0139.hcd
 
 ### GPS
 # Binaries differ between T710, T715, T810 and T815
@@ -20,7 +20,6 @@ app/mcRegistry/ffffffff00000000000000000000000c.tlbin
 app/mcRegistry/ffffffff00000000000000000000000d.tlbin
 app/mcRegistry/ffffffff00000000000000000000000e.tlbin
 app/mcRegistry/ffffffff00000000000000000000000f.tlbin
-app/mcRegistry/ffffffff00000000000000000000001f.tlbin
 app/mcRegistry/ffffffff00000000000000000000003e.tlbin
 app/mcRegistry/ffffffff000000000000000000000004.tlbin
 app/mcRegistry/ffffffff000000000000000000000005.tlbin
@@ -29,7 +28,6 @@ app/mcRegistry/ffffffff000000000000000000000012.tlbin
 app/mcRegistry/ffffffff000000000000000000000013.tlbin
 app/mcRegistry/ffffffff000000000000000000000016.tlbin
 app/mcRegistry/ffffffff000000000000000000000017.tlbin
-app/mcRegistry/ffffffff000000000000000000000018.tlbin
 app/mcRegistry/ffffffff000000000000000000000019.tlbin
 app/mcRegistry/ffffffff000000000000000000000021.tlbin
 app/mcRegistry/ffffffff000000000000000000000041.tlbin
