@@ -7,7 +7,7 @@ LOCAL_PATH := device/samsung/gts28wifi
 TARGET_SPECIFIC_HEADER_PATH += $(LOCAL_PATH)/include
 
 # Kernel
-TARGET_KERNEL_CONFIG := cm_exynos5433-gts28wifi_defconfig
+TARGET_KERNEL_CONFIG := lineage_gts28wifi_defconfig
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := gts28wifi,gts28wifixx
