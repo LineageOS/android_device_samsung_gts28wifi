@@ -7,6 +7,7 @@ LOCAL_PATH := device/samsung/gts28wifi
 TARGET_SPECIFIC_HEADER_PATH += $(LOCAL_PATH)/include
 
 # Kernel
+BOARD_MKBOOTIMG_ARGS += --dt $(LOCAL_PATH)/dtb.img
 TARGET_KERNEL_CONFIG := lineage_gts28wifi_defconfig
 
 # Recovery
